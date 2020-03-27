@@ -4,7 +4,7 @@ Uma aplicação desenvolvida durante a semana Omnistack da Rockertseat, a aplica
 
 ## Imagens
 
-![Intro Web](https://github.com/gabrielmussolini984/Omnistack-11/raw/master/path/to/fotos/home.png)
+![Intro Web](https://github.com/gabrielmussolini984/Omnistack-11/blob/master/fotos/home.PNG)
 
 
 ## Updates Futuros
